@@ -1,0 +1,41 @@
+name: free_books
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.9.0
+  archive: ^4.0.7
+  flutter_epub_viewer: ^1.2.2
+  path_provider: ^2.1.5
+  webview_flutter: ^4.13.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+  - family: Newsreader
+    fonts:
+    - asset: assets/fonts/Newsreader_36pt-ExtraBold.ttf
+      weight: 900
+    - asset: assets/fonts/Newsreader_36pt-Bold.ttf
+      weight: 700
+    - asset: assets/fonts/Newsreader_36pt-SemiBold.ttf
+      weight: 600
+    - asset: assets/fonts/Newsreader_36pt-Medium.ttf
+      weight: 500
+    - asset: assets/fonts/Newsreader_36pt-Regular.ttf
+      weight: 400
+    - asset: assets/fonts/Newsreader_36pt-Light.ttf
+      weight: 300
+

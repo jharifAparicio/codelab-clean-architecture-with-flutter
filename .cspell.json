@@ -1,0 +1,16 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "files": [
+        "lib/**/*.dart"
+    ],
+    "words": [
+        "epub",
+        "kably",
+        "xcworkspace"
+    ],
+    "ignorePaths": [
+        "lib/models/book.dart",
+        "lib/data/book_local.dart"
+    ]
+}
