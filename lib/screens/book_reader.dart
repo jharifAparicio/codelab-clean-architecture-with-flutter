@@ -1,10 +1,12 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_epub_viewer/flutter_epub_viewer.dart';
 
 class BookReader extends StatefulWidget {
-  const BookReader({super.key, required this.title, required this.url});
+  const BookReader({super.key, required this.title, required this.localFile});
   final String title;
-  final String url;
+  final File localFile;
   @override
   State<BookReader> createState() => _BookReaderState();
 }
@@ -34,8 +36,8 @@ class _BookReaderState extends State<BookReader> {
             child: Stack(
               children: [
                 EpubViewer(
-                  epubSource: EpubSource.fromUrl(
-                    widget.url,
+                  epubSource: EpubSource.fromFile(
+                    widget.localFile,
                     // cache: true,
                   ),
                   epubController: epubController,

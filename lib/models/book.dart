@@ -7,7 +7,7 @@ String apiResponseToJson(ApiResponse data) => json.encode(data.toJson());
 
 class ApiResponse {
   int count;
-  String next;
+  String? next;
   String? previous;
   List<Book> results;
 
@@ -55,7 +55,7 @@ class Book {
   List<String> bookshelves;
   List<Language> languages;
   bool copyright;
-  MediaType mediaType;
+  String mediaType;
   Formats formats;
   int downloadCount;
 
@@ -84,7 +84,7 @@ class Book {
     List<String>? bookshelves,
     List<Language>? languages,
     bool? copyright,
-    MediaType? mediaType,
+    String? mediaType,
     Formats? formats,
     int? downloadCount,
   }) => Book(
@@ -116,7 +116,7 @@ class Book {
       json["languages"].map((x) => languageValues.map[x]!),
     ),
     copyright: json["copyright"],
-    mediaType: mediaTypeValues.map[json["media_type"]]!,
+    mediaType: json["media_type"],
     formats: Formats.fromJson(json["formats"]),
     downloadCount: json["download_count"],
   );
@@ -133,14 +133,14 @@ class Book {
       languages.map((x) => languageValues.reverse[x]),
     ),
     "copyright": copyright,
-    "media_type": mediaTypeValues.reverse[mediaType],
+    "media_type": mediaType,
     "formats": formats.toJson(),
     "download_count": downloadCount,
   };
 }
 
 class Author {
-  String name;
+  String? name;
   int? birthYear;
   int? deathYear;
 
@@ -170,13 +170,13 @@ class Author {
 }
 
 class Formats {
-  String textHtml;
-  String applicationEpubZip;
-  String applicationXMobipocketEbook;
-  String textPlainCharsetUsAscii;
-  String applicationRdfXml;
+  String? textHtml;
+  String? applicationEpubZip;
+  String? applicationXMobipocketEbook;
+  String? textPlainCharsetUsAscii;
+  String? applicationRdfXml;
   String imageJpeg;
-  String applicationOctetStream;
+  String? applicationOctetStream;
   String? textHtmlCharsetUtf8;
   String? textPlainCharsetUtf8;
 
@@ -249,10 +249,6 @@ final languageValues = EnumValues({
   "es": Language.es,
   "fr": Language.fr,
 });
-
-enum MediaType { text }
-
-final mediaTypeValues = EnumValues({"Text": MediaType.text});
 
 class EnumValues<T> {
   Map<String, T> map;

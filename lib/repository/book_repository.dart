@@ -12,4 +12,15 @@ class BookRepository {
       rethrow;
     }
   }
+
+  static Future<List<Book>> fetchBooksPopular() async {
+    try {
+      await Future.delayed(const Duration(seconds: 2));
+      return ApiResponse.fromJson(
+        bookPopular,
+      ).results; // Return an empty list for now
+    } catch (e) {
+      rethrow;
+    }
+  }
 }

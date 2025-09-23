@@ -1,10 +1,19 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:free_books/models/book.dart';
+import 'package:free_books/models/download_result.dart';
+import 'package:free_books/repository/guterber_downloader.dart';
 import 'package:free_books/screens/book_reader.dart';
 
-class BookDetail extends StatelessWidget {
+class BookDetail extends StatefulWidget {
   const BookDetail({super.key, required this.book});
   final Book book;
+
+  @override
+  State<BookDetail> createState() => _BookDetailState();
+}
+
+class _BookDetailState extends State<BookDetail> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -20,7 +29,7 @@ class BookDetail extends StatelessWidget {
               height: MediaQuery.sizeOf(context).height * 0.3,
               decoration: BoxDecoration(color: Color(0xffEDEEEE)),
               child: Image.network(
-                book.formats.imageJpeg,
+                widget.book.formats.imageJpeg,
                 width: 400,
                 height: 400,
               ),
@@ -33,12 +42,12 @@ class BookDetail extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    book.title,
+                    widget.book.title,
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(height: 10),
                   Text(
-                    book.authors.map((e) => e.name).join('\n'),
+                    widget.book.authors.map((e) => e.name).join('\n'),
                     style: TextStyle(fontSize: 16),
                   ),
                   Text(
@@ -47,8 +56,8 @@ class BookDetail extends StatelessWidget {
                   ),
                   SizedBox(height: 5),
                   Text(
-                    book.bookshelves.isNotEmpty
-                        ? book.bookshelves
+                    widget.book.bookshelves.isNotEmpty
+                        ? widget.book.bookshelves
                               .map((e) => e.replaceAll("Category: ", ""))
                               .join('\n')
                         : 'N/A',
@@ -59,8 +68,8 @@ class BookDetail extends StatelessWidget {
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                   ),
                   Text(
-                    book.summaries.isNotEmpty
-                        ? book.summaries.join('\n\n')
+                    widget.book.summaries.isNotEmpty
+                        ? widget.book.summaries.join('\n\n')
                         : 'N/A',
                   ),
                   SizedBox(height: 20),
@@ -76,13 +85,34 @@ class BookDetail extends StatelessWidget {
                           vertical: 10,
                         ),
                       ),
-                      onPressed: () {
+                      onPressed: () async {
+                        if (widget.book.formats.applicationEpubZip == null) {
+                          return;
+                        }
+
+                        final dl = GutenbergDownloader();
+                        final result = await dl.downloadBest(
+                          url: widget
+                              .book
+                              .formats
+                              .applicationEpubZip!, // tu JSON "formats"
+                          bookId: widget.book.id.toString(),
+                          chosen: BookFormat.epub,
+                          onProgress: (r, t) {
+                            if (kDebugMode) {
+                              print(
+                                'download: ${(r / t * 100).toStringAsFixed(0)}%',
+                              );
+                            }
+                          },
+                        );
+                        if (!context.mounted) return;
                         Navigator.push(
                           context,
                           MaterialPageRoute(
                             builder: (context) => BookReader(
-                              title: book.title,
-                              url: book.formats.applicationEpubZip,
+                              title: widget.book.title,
+                              localFile: result.file,
                             ),
                           ),
                         );

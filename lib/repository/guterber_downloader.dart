@@ -8,35 +8,11 @@ class GutenbergDownloader {
   final Dio _dio = Dio();
 
   Future<DownloadResult> downloadBest({
-    required Map<String, String> formats,
+    required String url,
     required String bookId,
+    required BookFormat chosen,
     void Function(int received, int total)? onProgress,
   }) async {
-    final candidates = <({String mime, BookFormat kind})>[
-      (mime: 'application/epub+zip', kind: BookFormat.epub),
-      (mime: 'application/octet-stream', kind: BookFormat.htmlZip),
-      (mime: 'text/plain', kind: BookFormat.txt),
-    ];
-
-    String? url;
-    BookFormat? chosen;
-
-    for (final c in candidates) {
-      final match = formats.keys.firstWhere(
-        (k) => k.startsWith(c.mime),
-        orElse: () => '',
-      );
-      if (match.isNotEmpty) {
-        url = formats[match]!;
-        chosen = c.kind;
-        break;
-      }
-    }
-
-    if (url == null || chosen == null) {
-      throw Exception('There are no supported formats for download.');
-    }
-
     final dir = await getApplicationDocumentsDirectory();
     final ext = switch (chosen) {
       BookFormat.epub => 'epub',

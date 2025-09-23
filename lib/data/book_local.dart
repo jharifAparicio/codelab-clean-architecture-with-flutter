@@ -1485,3 +1485,1322 @@ final bookLocal = {
     },
   ],
 };
+
+final bookPopular = {
+  "count": 350,
+  "next": "https://gutendex.com/books/?page=2&search=jules",
+  "previous": null,
+  "results": [
+    {
+      "id": 18857,
+      "title": "A Journey to the Centre of the Earth",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"A Journey to the Centre of the Earth\" by Jules Verne is a science fiction novel written in the mid-19th century. The story follows the protagonist, Professor Otto Lidenbrock, and his nephew, Axel, as they embark on an extraordinary expedition to explore the depths of the Earth, spurred by an ancient manuscript that hints at the path to the planet's core. The novel combines adventure with scientific exploration, drawing upon the geological knowledge of its time.  The opening of the book introduces us to the eccentric Professor Lidenbrock, who is consumed by a recent discovery of a Runic manuscript he believes contains secrets to the Earth's interior. The story begins in Germany, where he summons his nephew, Axel, to help decipher the text, leading to a mix of excitement and dread as the young man grapples with the implications of their potential journey. As the chapters progress, Lidenbrock's fervor and determination become apparent, setting the stage for their thrilling and perilous adventure below ground. The narrative introduces key characters, references to Iceland's geological wonders, and hints at the challenges they will face as they prepare for their ambitious descent. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction",
+        "Voyages, Imaginary -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/18857.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/18857.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/18857.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/18857.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/18857.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/18857/pg18857.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/18857/18857-8.zip",
+      },
+      "download_count": 9733,
+    },
+    {
+      "id": 164,
+      "title": "Twenty Thousand Leagues under the Sea",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Twenty Thousand Leagues under the Sea\" by Jules Verne is a classic science fiction novel written during the late 19th century. The story revolves around the mysterious appearances of a massive sea creature, leading to public sensation and scientific debate about its existence. The narrative is centered on Professor Pierre Aronnax, his servant Conseil, and Canadian whaler Ned Land as they embark on a journey to confront this enigmatic creature, which turns out to be far more than anyone anticipated.  The opening of the novel sets the stage for an extraordinary adventure by detailing the widespread excitement over sightings of a colossal sea creature observed by various ships across the oceans. Professor Aronnax, recently returned from a scientific expedition, finds himself drawn into the heated debate surrounding the creature's existence. The narrative follows his decision to join the U.S. expedition aboard the frigate Abraham Lincoln, alongside his companions Conseil and Ned Land, as they pursue the supposed monster. Tension builds as they ready themselves for confrontation, establishing a sense of suspense and wonder about what lies beneath the ocean's depths. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/164.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/164.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/164.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/164.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/164.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/164/pg164.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/164/pg164-h.zip",
+      },
+      "download_count": 8683,
+    },
+    {
+      "id": 103,
+      "title": "Around the World in Eighty Days",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Around the World in Eighty Days\" by Jules Verne is a classic adventure novel written in the late 19th century. The story centers around the meticulous and enigmatic Phileas Fogg, who makes a wager that he can travel around the world in just eighty days, accompanied by his new servant, Passepartout. The narrative explores themes of punctuality, the clash between routine and unpredictability, and the spirit of adventure in the face of challenges.  The opening of the novel introduces Phileas Fogg, an exceptionally punctual and methodical gentleman residing in London, who is known for his unyielding daily routine and enigmatic past. He meets Passepartout, a Frenchman with a varied background, who hopes to find stability in his new role as a servant. Fogg's routine is abruptly disrupted when he engages in a wager to circumnavigate the globe in eighty days, spurred on by a conversation at the Reform Club regarding the possibilities of modern transportation. The chapter sets the stage for a journey filled with unexpected challenges, as Fogg is determined to prove that such an ambitious feat is achievable, testing both his resolve and his carefully ordered life. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Adventure stories", "Voyages around the world -- Fiction"],
+      "bookshelves": [
+        "Adventure",
+        "Best Books Ever Listings",
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Movie Books",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/103.html.images",
+        "text/html; charset=iso-8859-1":
+            "https://www.gutenberg.org/files/103/103-h/103-h.htm",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/103.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/103.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/103.txt.utf-8",
+        "text/plain; charset=utf-8":
+            "https://www.gutenberg.org/files/103/103-0.txt",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/103.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/103/pg103.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/103/pg103-h.zip",
+      },
+      "download_count": 6696,
+    },
+    {
+      "id": 2488,
+      "title":
+          "Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World\" by Jules Verne is a classic science fiction novel written in the late 19th century. The book embarks on an adventurous underwater journey with Professor Aronnax, his servant Conseil, and Canadian harpooner Ned Land, as they seek to uncover the mystery of a giant sea creature that has been troubling the oceans.  The opening of the novel introduces a phenomenon in the year 1866, where multiple ships report encounters with a monstrous, fast-moving creature, giving rise to public excitement and scientific debate. Professor Aronnax, recently returned from an expedition, becomes drawn into the mystery and debates the possible existence of the creature with various hypotheses about its nature. As the narrative progresses, it establishes a background of public curiosity and urgency surrounding the 'monster,' leading to the preparation of an American expedition on the frigate Abraham Lincoln, where Aronnax and his companions are invited to join in the hunt for this elusive beast. The anticipation builds as they set sail to confront a creature that could potentially reshape their understanding of the ocean's depths. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {
+          "name": "Walter, Frederick Paul",
+          "birth_year": 1943,
+          "death_year": 2024,
+        },
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": true,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/2488.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/2488.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/2488.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/2488.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/2488.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/2488/pg2488.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/2488/pg2488-h.zip",
+      },
+      "download_count": 4202,
+    },
+    {
+      "id": 1268,
+      "title": "The Mysterious Island",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"The Mysterious Island\" by Jules Verne is a novel written in the late 19th century that delves into themes of survival, adventure, and ingenuity. The story follows a group of escapees from a Civil War prison who find themselves stranded on a deserted island after a balloon ride goes awry. The main characters, including the resourceful engineer Captain Cyrus Harding, reporter Gideon Spilett, sailor Pencroft, and a devoted servant named Neb, must navigate not only the challenges of their new environment but also the uncertainties of their fate.  The beginning of the book sets a dramatic tone as the characters grapple with the chaotic descent of their balloon amidst a violent storm in the Pacific. As they understand their perilous situation, voices of urgency call for action to lighten the balloon's load to avoid crashing into the sea. Following their eventual landing on what they suspect to be an uncharted land, the survivors are devastated by the loss of their companion, Captain Harding, who disappears into the ocean during their final crash. The survivors' determination to find their leader showcases their resilience, as they prepare to explore the mysterious island and confront the unknown challenges ahead. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Castaways -- Fiction",
+        "Islands of the Pacific -- Fiction",
+        "Science fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/1268.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/1268.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/1268.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/1268.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/1268.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/1268/pg1268.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/1268/pg1268-h.zip",
+      },
+      "download_count": 3042,
+    },
+    {
+      "id": 22049,
+      "title":
+          "A Literary History of the English People, from the Origins to the Renaissance",
+      "authors": [
+        {
+          "name": "Jusserand, J. J. (Jean Jules)",
+          "birth_year": 1855,
+          "death_year": 1932,
+        },
+      ],
+      "summaries": [
+        "\"A Literary History of the English People, from the Origins to the Renaissance\" by J. J. Jusserand is a historical account written in the late 19th century. The book explores the evolution of English literature, tracing its development from its ancient origins through the Renaissance. It delves into the complex narrative of cultural exchanges and influences that have shaped English literary identity over time.  The opening of the book introduces the reader to the rich tapestry of early British history, particularly focusing on its diverse Celtic roots and the transition into English language and literature as influenced by Roman and later Germanic invasions. Jusserand discusses the fusion of races, the characteristics of Celtic literature, and the impact of the Roman conquest, setting the stage for the evolution of a uniquely English literary tradition. He emphasizes the significance of this historical context in understanding the contributions of various cultures and peoples to the formation of English identity as expressed through its literature. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["English literature -- History and criticism"],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: History - British",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/22049.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/22049.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/22049.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/22049.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/22049.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/22049/pg22049.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/22049/22049-page-images/f001.png",
+      },
+      "download_count": 2862,
+    },
+    {
+      "id": 20000,
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction",
+      ],
+      "bookshelves": ["Science Fiction"],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Sound",
+      "formats": {
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/20000/pg20000.cover.medium.jpg",
+        "text/html": "https://www.gutenberg.org/files/20000/20000-index.html",
+        "audio/ogg": "https://www.gutenberg.org/files/20000/ogg/20000-01.ogg",
+        "audio/mp4": "https://www.gutenberg.org/files/20000/m4b/20000-01.m4b",
+        "audio/mpeg": "https://www.gutenberg.org/files/20000/mp3/20000-01.mp3",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/20000.rdf",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/files/20000/20000-readme.txt",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/20000/20000-m4b.zip",
+      },
+      "download_count": 2272,
+    },
+    {
+      "id": 38243,
+      "title": "Histoire de France - Moyen Âge; (Vol. 1 / 10)",
+      "authors": [
+        {"name": "Michelet, Jules", "birth_year": 1798, "death_year": 1874},
+      ],
+      "summaries": [
+        "\"Histoire de France - Moyen Âge; (Vol. 1 / 10)\" by Jules Michelet is a historical account written in the mid-19th century. This work presents a comprehensive exploration of France's history during the Middle Ages, emphasizing not only political events but also cultural, economic, and social developments. Michelet aims to depict the essence of France as a living entity shaped by various influences, including geography, society, and the collective spirit of its people.   The opening of this volume establishes the author's intent and methodology, outlining his reflections on history and its interpretation. Michelet draws upon the contrasts between the Celtic and Iberian peoples, illustrating the dynamics of war and culture in ancient Gaul. He emphasizes the importance of understanding historical life as a complete, interconnected system rather than isolated facts. Michelet's approach signifies an ambitious undertaking to \"resurrect\" the historical narrative of France by delving deeply into its origins and development, setting the stage for a narrative that combines passion, erudition, and a sense of the nation's soul throughout the Middle Ages. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["France -- History"],
+      "bookshelves": [
+        "Category: History - European",
+        "Category: History - Medieval/Middle Ages",
+        "Category: History - Other",
+        "FR Histoire",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/38243/38243-8.zip",
+        "text/html": "https://www.gutenberg.org/ebooks/38243.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/38243.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/38243.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/38243.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/38243/pg38243.cover.medium.jpg",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/38243.txt.utf-8",
+      },
+      "download_count": 2081,
+    },
+    {
+      "id": 17635,
+      "title": "Repertory of The Comedie Humaine, Complete, A — Z",
+      "authors": [
+        {"name": "Cerfberr, Anatole", "birth_year": 1835, "death_year": 1896},
+        {
+          "name": "Christophe, Jules François",
+          "birth_year": 1840,
+          "death_year": null,
+        },
+      ],
+      "summaries": [
+        "\"Repertory of The Comedie Humaine, Complete, A — Z\" by Cerfberr and Christophe is a comprehensive reference work written in the late 19th century. This text serves as an alphabetized index of characters from Honoré de Balzac's vast literary universe, known as the Comédie Humaine, detailing significant aspects of their lives and emphasizing Balzac's innovative approach to interconnected storytelling. Readers will find it particularly useful for tracing the development of recurring characters, such as Eugène de Rastignac, through Balzac's many narratives.  The opening of this work includes a detailed translator’s preface that establishes the importance of the Repertory as a valuable tool for both casual readers and devoted fans of Balzac. It discusses Balzac's unique character-driven writing style, where characters appear across different stories, thereby creating a rich tapestry of social and political life in 19th-century France. Additionally, the introduction elaborates on Balzac's influence on literature, his detailed character sketches, and the emotional resonance his works invoke in readers, laying a robust foundation for what is to follow in the body of the Repertory. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {
+          "name": "McSpadden, J. Walker (Joseph Walker)",
+          "birth_year": 1874,
+          "death_year": 1960,
+        },
+      ],
+      "subjects": ["Balzac, Honoré de, 1799-1850. Comédie humaine"],
+      "bookshelves": [
+        "Category: Encyclopedias/Dictionaries/Reference",
+        "Category: French Literature",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/17635/17635-h.zip",
+        "text/html": "https://www.gutenberg.org/ebooks/17635.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/17635.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/17635.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/17635.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/17635.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/17635/pg17635.cover.medium.jpg",
+      },
+      "download_count": 1813,
+    },
+    {
+      "id": 19513,
+      "title": "A Journey to the Center of the Earth",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction",
+        "Voyages, Imaginary -- Fiction",
+      ],
+      "bookshelves": ["Science Fiction"],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Sound",
+      "formats": {
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/19513/pg19513.cover.medium.jpg",
+        "text/html": "https://www.gutenberg.org/files/19513/19513-index.html",
+        "audio/ogg": "https://www.gutenberg.org/files/19513/ogg/19513-01.ogg",
+        "audio/mp4": "https://www.gutenberg.org/files/19513/m4b/19513-01.m4b",
+        "audio/mpeg": "https://www.gutenberg.org/files/19513/mp3/19513-01.mp3",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/files/19513/19513.txt",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/19513.rdf",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/19513/19513-m4b.zip",
+      },
+      "download_count": 1810,
+    },
+    {
+      "id": 31420,
+      "title": "La Sorcière: The Witch of the Middle Ages",
+      "authors": [
+        {"name": "Michelet, Jules", "birth_year": 1798, "death_year": 1874},
+      ],
+      "summaries": [
+        "\"La Sorcière: The Witch of the Middle Ages\" by Jules Michelet is a historical account written in the mid-19th century. This work explores the concept of witchcraft during the Middle Ages, focusing on the evolution of the figure of the witch from benevolent healer to persecuted outcast. The book examines the social, cultural, and religious tensions that contributed to the witch hunts, providing a nuanced perspective on how women, particularly, were targeted in this dark period of history.  The opening of the book introduces a preface that sets the tone for Michelet’s critique of the oppressive societal structures of the time, particularly the intertwined influences of the Church and feudalism. Michelet's exploration begins with the assertion that the witch represents the tragic intersection of healing and persecution, as women who were once revered as wise healers were ultimately vilified and hunted. He lays the groundwork for a discussion that intertwines historical facts with poetic reflections, emphasizing the deep-seated societal fears and the transformation of the witch from nature’s caretaker to a symbol of evil in a superstitious and authoritarian climate. This introduction foreshadows a detailed examination of the lives, beliefs, and struggles of witches against a backdrop of despair and darkness in medieval society. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {
+          "name": "Trotter, Lionel J. (Lionel James)",
+          "birth_year": null,
+          "death_year": null,
+        },
+      ],
+      "subjects": [
+        "Demonomania -- History -- To 1500",
+        "Satanism -- History -- To 1500",
+        "Superstition -- History -- To 1500",
+        "Witchcraft -- History -- To 1500",
+      ],
+      "bookshelves": [
+        "Category: Gender & Sexuality Studies",
+        "Category: History - Medieval/Middle Ages",
+        "Category: History - Religious",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/31420/31420-0.zip",
+        "text/html": "https://www.gutenberg.org/ebooks/31420.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/31420.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/31420.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/31420.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/31420.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/31420/pg31420.cover.medium.jpg",
+      },
+      "download_count": 1737,
+    },
+    {
+      "id": 14287,
+      "title": "L'île mystérieuse",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"L'île mystérieuse\" by Jules Verne is a novel written in the late 19th century. This adventure story follows a group of five characters, led by the ingenious engineer Cyrus Smith, who find themselves stranded on a deserted island after a disastrous balloon journey amidst a fierce storm.  The beginning of the novel introduces the dire situation of the five passengers aboard the balloon as they struggle against the storm's ferocity. Full of excitement and suspense, the scene portrays their frantic attempts to lighten their load in hopes of ascending to safety. As they plummet towards the ocean, they make a desperate appeal for land, which they spot in the distance but must reach before it’s too late. This thrilling opening sets the stage for their survival journey on an unknown island, ultimately leading to explorations, discoveries, and challenges in an uncharted wilderness. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Castaways -- Fiction",
+        "Islands of the Pacific -- Fiction",
+        "Science fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "FR Littérature",
+        "FR Science fiction",
+        "Science Fiction",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/14287.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/14287.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/14287.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/14287.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/14287.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/14287/pg14287.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/14287/pg14287-h.zip",
+      },
+      "download_count": 1669,
+    },
+    {
+      "id": 46142,
+      "title": "La femme au dix-huitième siècle",
+      "authors": [
+        {"name": "Goncourt, Edmond de", "birth_year": 1822, "death_year": 1896},
+        {"name": "Goncourt, Jules de", "birth_year": 1830, "death_year": 1870},
+      ],
+      "summaries": [
+        "\"La femme au dix-huitième siècle\" by Edmond de Goncourt and Jules de Goncourt is a historical account written in the mid-19th century. This work explores the lives of women during the 18th century in France, aiming to uncover the nuances and complexities of female existence that have often been overlooked or simplified in historical narratives. The authors intend to provide a detailed examination of society's mores, psychological realities, and the social roles that shaped women's experiences during this pivotal era.  The beginning of the text sets the stage by reflecting on the societal reception of female births in the 18th century, emphasizing that a girl was often seen as a disappointment compared to a male heir. The narrative continues with an in-depth description of the upbringing and education of girls, highlighting the influence of a governess in molding them into suitable future wives. The authors explore the stark contrasts between the joys and constraints faced by women, their relegation to roles defined by marriage and society's expectations, and the intricate dynamics within their relationships. An underlying theme emerges regarding the sacrifices, expectations, and realities of women's lives, which invites readers to engage with a historical context that profoundly shapes contemporary discussions about gender roles and identities. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Eighteenth century",
+        "France -- Social life and customs -- 18th century",
+        "Salons -- France -- History -- 18th century",
+        "Women -- France -- History -- 18th century",
+        "Women -- Social and moral questions",
+        "Women and literature -- France -- History -- 18th century",
+      ],
+      "bookshelves": [
+        "Category: Gender & Sexuality Studies",
+        "Category: History - European",
+        "Category: History - Modern (1750+)",
+        "FR Peuples et Sociétés",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/46142.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/46142.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/46142.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/46142.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/46142/pg46142.cover.medium.jpg",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/46142.txt.utf-8",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/46142/pg46142-h.zip",
+      },
+      "download_count": 1603,
+    },
+    {
+      "id": 4791,
+      "title": "Voyage au Centre de la Terre",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Voyage au Centre de la Terre\" by Jules Verne is a classic science fiction novel written in the mid-19th century. The story follows Professor Otto Lidenbrock, a headstrong geologist, and his reluctant nephew Axel, as they embark on an adventurous journey to the Earth's core after discovering an ancient manuscript containing a cryptic message.   The beginning of the book introduces us to Axel and his eccentric uncle Lidenbrock, who is depicted as a brilliant yet irascible man obsessed with science. The plot kicks off when Lidenbrock finds a rare Icelandic manuscript that hints at a passage to the center of the Earth. Excited, he quickly engages Axel in a race against time to decode the manuscript. As the opening develops, readers are introduced to the domestic life in Hamburg and the contrarian nature of Lidenbrock, who often disregards the concerns of those around him. Axel's reservations about the journey are evident, foreshadowing an impending adventure filled with scientific exploration and personal challenge. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Earth (Planet) -- Core -- Fiction",
+        "Science fiction",
+        "Voyages, Imaginary -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "FR Littérature",
+        "FR Science fiction",
+        "Science Fiction",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/4791.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/4791.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/4791.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/4791.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/4791.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/4791/pg4791.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/4791/4791-0.zip",
+      },
+      "download_count": 1490,
+    },
+    {
+      "id": 44617,
+      "title": "Mémoires de Luther écrits par lui-même, Tome II",
+      "authors": [
+        {"name": "Luther, Martin", "birth_year": 1483, "death_year": 1546},
+        {"name": "Michelet, Jules", "birth_year": 1798, "death_year": 1874},
+      ],
+      "summaries": [
+        "\"Mémoires de Luther écrits par lui-même, Tome II\" by Jules Michelet and Martin Luther is a historical account written in the early 19th century. The work presents the life and thoughts of Martin Luther, a pivotal figure in the Protestant Reformation, focusing on his writings and correspondences during critical periods of religious conflict in Europe. The topics likely delve into Luther’s theological arguments, political challenges, and personal reflections during this transformative time.  The opening of the memoirs starts by highlighting the context of danger facing Germany and the Protestant Reformation. Luther emerges from despondency, motivated by the looming threat of the Turks invading Vienna in 1529. He responds by rallying people to arms and addressing misconceptions about the Christian response to such threats. The text outlines Luther's correspondence with key figures of his time, emphasizing his role as a thinker and leader amidst the emerging religious and political tensions. It sets the stage for his reflections on faith, conflict, and the challenges he faced in advocating for the Reformation amidst growing opposition. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Luther, Martin, 1483-1546"],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: History - European",
+        "Category: History - Religious",
+        "FR Biographie, Mémoires, Journal intime, Correspondance",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/44617.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/44617.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/44617.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/44617.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/44617/pg44617.cover.medium.jpg",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/44617.txt.utf-8",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/44617/pg44617-h.zip",
+      },
+      "download_count": 1479,
+    },
+    {
+      "id": 24777,
+      "title":
+          "Celebrated Travels and Travellers, Part 1.: The Exploration of the World",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Celebrated Travels and Travellers, Part 1\" by Jules Verne is a detailed exploration narrative written in the late 19th century. This work chronicles the voyages and explorations of notable travelers from ancient history through the medieval period. The content focuses on pivotal figures in exploration, such as Hanno, Herodotus, and Marco Polo, detailing their journeys and contributions to our understanding of geography and cultures.  The opening of this volume presents a fascinating array of early explorers, beginning with Hanno of Carthage, who ventured along the African coast, and extending to figures like Herodotus, recognized as the \"Father of History,\" who traveled through various regions, including Egypt and Persia. Verne vividly describes their adventures, motivations, and the civilizations they encountered, presenting an engaging survey of travel's evolution over centuries. This introductory portion sets the stage for a comprehensive examination of exploration through different eras and cultures, emphasizing the impact of these journeys on knowledge and global perspectives. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {"name": "Leigh, Dora", "birth_year": null, "death_year": null},
+      ],
+      "subjects": [
+        "Discoveries in geography",
+        "Explorers",
+        "Voyages and travels",
+      ],
+      "bookshelves": [
+        "Category: History - Ancient",
+        "Category: History - Medieval/Middle Ages",
+        "Category: Travel Writing",
+        "Travel",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/24777.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/24777.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/24777.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/24777.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/24777.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/24777/pg24777.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/24777/24777-8.zip",
+      },
+      "download_count": 1429,
+    },
+    {
+      "id": 28947,
+      "title": "Around the World in Eighty Days",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [],
+      "translators": [
+        {
+          "name": "Towle, George M. (George Makepeace)",
+          "birth_year": 1841,
+          "death_year": 1893,
+        },
+      ],
+      "subjects": ["Adventure stories", "Voyages around the world -- Fiction"],
+      "bookshelves": [],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Sound",
+      "formats": {
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/28947/pg28947.cover.medium.jpg",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/files/28947/28947_readme.txt",
+        "text/html": "https://www.gutenberg.org/files/28947/28947_index.html",
+        "audio/ogg": "https://www.gutenberg.org/files/28947/ogg/28947-01.ogg",
+        "audio/mp4": "https://www.gutenberg.org/files/28947/m4b/28947-01.m4b",
+        "audio/mpeg": "https://www.gutenberg.org/files/28947/mp3/28947-01.mp3",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/28947.rdf",
+      },
+      "download_count": 1259,
+    },
+    {
+      "id": 44278,
+      "title":
+          "From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes: and a Trip Round It",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"From the Earth to the Moon, Direct in Ninety-Seven Hours and Twenty Minutes\" by Jules Verne is a science fiction novel written in the late 19th century. The story revolves around the ambitious plans of the Baltimore Gun Club, led by President Impey Barbicane, as they aim to launch a projectile to the moon. The book explores themes of ingenuity, the spirit of American enterprise, and the interplay between science and public enthusiasm.  At the start of the book, we are introduced to the Gun Club, formed during the American Civil War, which has become obsolete following the war's end. The members, discontent with their inactivity, are excited by Barbicane's proposal to send a projectile to the moon. This leads to a gathering of club members, where Barbicane informs them of his groundbreaking idea, sparking a fervor of support and speculation among the members and the wider public. As the opening unfolds, the scene is set for an exploration of the practical and theoretical challenges of achieving this unprecedented venture, coupled with the enthusiasm of a nation eager to participate in a seemingly impossible mission. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: American Literature",
+        "Category: Classics of Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/44278.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/44278.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/44278.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/44278.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/44278/pg44278.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/44278/pg44278-h.zip",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/44278.txt.utf-8",
+      },
+      "download_count": 1246,
+    },
+    {
+      "id": 1353,
+      "title": "Off on a Comet! a Journey through Planetary Space",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Off on a Comet!\" by Jules Verne is a novel written in the late 19th century that combines elements of adventure and science fiction. The story follows Captain Hector Servadac, who finds himself embroiled in a fantastical set of circumstances when a comet collides with Earth, uprooting his life and transporting him to a new and uncertain reality. The narrative explores themes of exploration and curiosity amid cosmic chaos, as Servadac and his companion Ben Zoof navigate the challenges of survival in a drastically altered world.  The beginning of this novel introduces readers to Captain Servadac and Count Wassili Timascheff, who are engaged in a heated dispute over a matter of honor related to a musical rivalry on the Algerian coast. As the story unfolds, a catastrophic event dramatically alters the course of their lives, transforming the region they inhabit into an island amidst the sea. Following the upheaval, Servadac and Ben Zoof grapple with various physical manifestations of their new environment, including changes in atmospheric pressure and gravity, all while pondering the mysterious events that led to their extraordinary circumstances. This sets the stage for an adventurous odyssey through both space and a redefined sense of reality. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Interplanetary voyages -- Fiction", "Science fiction"],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/1353.html.images",
+        "text/html; charset=utf-8":
+            "https://www.gutenberg.org/files/1353/1353-h/1353-h.htm",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/1353.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/1353.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/1353.txt.utf-8",
+        "text/plain; charset=utf-8":
+            "https://www.gutenberg.org/files/1353/1353-0.txt",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/1353.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/1353/pg1353.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/1353/pg1353-h.zip",
+      },
+      "download_count": 1165,
+    },
+    {
+      "id": 2083,
+      "title": "In Search of the Castaways; Or, The Children of Captain Grant",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"In Search of the Castaways; Or, The Children of Captain Grant\" by Jules Verne is a novel written during the mid-19th century. This work, part of a series that includes \"The Mysterious Island\" and \"Twenty Thousand Leagues Under the Sea,\" follows Lord Edward Glenarvan and his companions as they embark on a daring quest to rescue Captain Grant, who has been shipwrecked somewhere on the southern coast of South America. The story combines adventure, exploration, and geographical detail, offering readers both excitement and information about lesser-known regions of the globe.  At the start of the novel, we are introduced to Lord Glenarvan, who is aboard his yacht, the Duncan, along with his wife, Lady Helena, and a few crew members. During their trial trip, they catch a large shark, which leads to the discovery of a bottle in its stomach containing documents that hint at the fate of Captain Grant and his two sailors. The documents are written in English, French, and German, and suggest that they are stranded in Patagonia, seeking rescue. This revelation propels Glenarvan and his crew into an international adventure, as they rally to save the lost men, setting the stage for their perilous journey across uncharted territories. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Australia -- Fiction",
+        "Castaways -- Fiction",
+        "New Zealand -- Fiction",
+        "Ocean travel -- Fiction",
+        "Seafaring life -- Fiction",
+        "Ship captains -- Fiction",
+        "South America -- Fiction",
+        "Voyages and travels -- Fiction",
+      ],
+      "bookshelves": ["Category: Adventure", "Category: Novels"],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/2083.html.images",
+        "text/html; charset=utf-8":
+            "https://www.gutenberg.org/files/2083/2083-h/2083-h.htm",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/2083.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/2083.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/2083.txt.utf-8",
+        "text/plain; charset=utf-8":
+            "https://www.gutenberg.org/files/2083/2083-0.txt",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/2083.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/2083/pg2083.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/2083/pg2083-h.zip",
+      },
+      "download_count": 1148,
+    },
+    {
+      "id": 26658,
+      "title":
+          "Celebrated Travels and Travellers, Part 3.: The Great Explorers of the Nineteenth Century",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Celebrated Travels and Travellers, Part 3\" by Jules Verne is a historical account written in the late 19th century. This work explores the journeys and discoveries of various celebrated explorers from the 19th century, providing insights into their adventures and the geographical knowledge gained through their travels. The book is likely to appeal to readers interested in exploration, geography, and the historical context of travel narratives.  The opening of the book lays the groundwork for an exploration of significant geographical discoveries and the key figures who contributed to this knowledge during a time of social and political turbulence. It discusses the slowdown of explorations due to the Republic and Empire influences in France and highlights the early contributions of explorers like Seetzen and Burckhardt to the understanding of regions such as Syria, Palestine, and the Arab world. The narrative sets the stage for detailed discussions on various expeditions and the accounts of these explorers, emphasizing the rich experiences and challenges they faced in their quests for knowledge. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {"name": "D'Anvers, N.", "birth_year": 1844, "death_year": 1933},
+      ],
+      "subjects": [
+        "Discoveries in geography",
+        "Explorers",
+        "Voyages and travels",
+      ],
+      "bookshelves": [
+        "Category: History - Modern (1750+)",
+        "Category: Travel Writing",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/26658/26658-8.zip",
+        "text/html": "https://www.gutenberg.org/ebooks/26658.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/26658.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/26658.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/26658.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/26658.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/26658/pg26658.cover.medium.jpg",
+      },
+      "download_count": 1139,
+    },
+    {
+      "id": 20973,
+      "title": "Le tour du monde en quatre-vingts jours",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [],
+      "translators": [],
+      "subjects": ["Adventure stories", "Voyages around the world -- Fiction"],
+      "bookshelves": ["FR Littérature"],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Sound",
+      "formats": {
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/20973/pg20973.cover.medium.jpg",
+        "text/html": "https://www.gutenberg.org/files/20973/20973-index.html",
+        "audio/ogg": "https://www.gutenberg.org/files/20973/ogg/20973-01.ogg",
+        "audio/mp4": "https://www.gutenberg.org/files/20973/m4b/20973-01.m4b",
+        "audio/mpeg": "https://www.gutenberg.org/files/20973/mp3/20973-01.mp3",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/20973.rdf",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/files/20973/20973-readme.txt",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/20973/20973-m4b.zip",
+      },
+      "download_count": 1127,
+    },
+    {
+      "id": 3526,
+      "title":
+          "Five Weeks in a Balloon: Or, Journeys and Discoveries in Africa by Three Englishmen",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Five Weeks in a Balloon\" by Jules Verne is a novel written in the mid-19th century that showcases the adventurous spirit of exploration during that era. The story follows Dr. Samuel Ferguson, an intrepid explorer determined to traverse Africa from east to west in a balloon—a daring concept that intertwines elements of discovery, adventure, and humor in a satirical take on contemporary travel literature.  At the start of the book, we are introduced to Dr. Ferguson amidst a grand presentation at the Royal Geographical Society, where he proposes his ambitious plan to cross Africa by balloon. The opening chapters detail Ferguson's past adventures, his close friendship with the rugged hunter Dick Kennedy, and their preparations for the journey. Ferguson’s character is depicted as both brilliant and somewhat eccentric, as he defends his unusual idea amidst skepticism from his peers. The dynamic between the optimistic Joe, their loyal servant, and the cautious Kennedy adds a layer of camaraderie and tension as they prepare for the journey that promises to be as much a spectacle as an exploration. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Africa -- Fiction",
+        "Balloons -- Fiction",
+        "Science fiction",
+        "Travel -- Fiction",
+      ],
+      "bookshelves": [
+        "Adventure",
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/3526.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/3526.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/3526.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/3526.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/3526.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/3526/pg3526.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/3526/pg3526-h.zip",
+      },
+      "download_count": 1119,
+    },
+    {
+      "id": 19362,
+      "title": "In the year 2889",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+        {"name": "Verne, Michel", "birth_year": 1861, "death_year": 1925},
+      ],
+      "summaries": [
+        "\"In the year 2889\" by Michel Verne and Jules Verne is a speculative science fiction narrative likely written during the late 19th century. The book explores a future society that has advanced remarkably in technology and lifestyle, reflecting on the marvels of civilization that have become commonplace in the lives of its inhabitants. Through its imaginative premise, it delves into topics such as transportation, communication, and changes in human relationships and societal structures.  The story centers around Fritz Napoleon Smith, the wealthy and influential editor of the Earth Chronicle, who embodies the epitome of progress in the year 2889. As the narrative unfolds over a single day in Smith's life, it illustrates the futuristic wonders that define his existence, such as pneumatic tubes for rapid travel, telephotic communication allowing real-time visual contact with loved ones, and a system of telephonic journalism where news is delivered directly to listeners in an interactive format. Additionally, the book touches on themes of societal change, the evolution of journalism, and the ongoing quest for scientific advancements, including attempts to communicate with extraterrestrial worlds. Through both its visionary elements and satirical commentary on contemporary society, the narrative provides a thought-provoking examination of progress and its implications for the future. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Science fiction", "Short stories"],
+      "bookshelves": [
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/19362.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/19362.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/19362.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/19362.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/19362.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/19362/pg19362.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/19362/19362-8.zip",
+      },
+      "download_count": 1117,
+    },
+    {
+      "id": 83,
+      "title": "From the Earth to the Moon; and, Round the Moon",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"From the Earth to the Moon; and, Round the Moon\" by Jules Verne is a science fiction novel written during the late 19th century. The book explores the ambitious project of the Baltimore Gun Club, which aims to launch a projectile to the moon using advances in artillery science. The main character, Impey Barbicane, serves as the president of the Gun Club and drives the narrative as he proposes this grand experiment, igniting excitement and debate among members and the public.  The opening of the book introduces the aftermath of the American Civil War, during which the Gun Club was founded, showcasing the members' skills in artillery invention and their dissatisfaction with a peacetime existence. As they languish in inactivity, Barbicane proposes the audacious idea of sending a projectile to the moon, appealing to both the club’s inventive spirit and the American public’s thirst for adventure. The ensuing excitement amongst the members sets the stage for a series of calculations and preparations that will follow, building anticipation for the ultimate test of human ingenuity and ambition. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "Movie Books",
+        "Science Fiction",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/83.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/83.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/83.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/83.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/83.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/83/pg83.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/83/83-0.zip",
+      },
+      "download_count": 1086,
+    },
+    {
+      "id": 18055,
+      "title":
+          "Journal des Goncourt (Troisième série, troisième volume): Mémoires de la vie littéraire",
+      "authors": [
+        {"name": "Goncourt, Edmond de", "birth_year": 1822, "death_year": 1896},
+        {"name": "Goncourt, Jules de", "birth_year": 1830, "death_year": 1870},
+      ],
+      "summaries": [
+        "\"Journal des Goncourt (Troisième série, troisième volume)\" by Goncourt and Goncourt is a memoir written in the late 19th century. This work serves as an insightful account of literary life during the period, reflecting on personal experiences, engaging conversations, and notable contemporaries within the literary scene, including discussions about fellow authors and the broader cultural landscape.   At the start of this volume, the narrator shares reflections on the New Year, revealing a sense of fatigue and introspection as he contemplates his social life, health, and interactions with other literary figures at dinner parties. The opening entries chronicle dinners with renowned writers and discussions about theatrical productions, alongside observations about the shifts in the literary and artistic world, personal reminiscences, and critiques of peers' work. Through these entries, the reader gains a glimpse into the vibrant yet complex world of late 19th-century French literature and society, as seen through the eyes of one of its notable chroniclers. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Goncourt, Edmond de, 1822-1896 -- Diaries",
+        "Goncourt, Jules de, 1830-1870 -- Diaries",
+        "Novelists, French -- 19th century -- Diaries",
+        "Paris (France) -- Intellectual life -- 19th century",
+        "Paris (France) -- Social life and customs -- 19th century",
+      ],
+      "bookshelves": [
+        "Category: Biographies",
+        "Category: French Literature",
+        "FR Biographie, Mémoires, Journal intime, Correspondance",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/18055.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/18055.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/18055.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/18055.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/18055.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/18055/pg18055.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/18055/18055-0.zip",
+      },
+      "download_count": 1062,
+    },
+    {
+      "id": 5097,
+      "title": "Vingt mille Lieues Sous Les Mers — Complete",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Vingt mille lieues sous les mers\" by Jules Verne is a science fiction novel written during the late 19th century. The story begins with mysterious reports of a colossal sea creature that has been observed by various vessels, causing a stir among sailors and governments alike. The narrative centers on Professor Pierre Aronnax, who becomes part of an expedition aboard the warship Abraham Lincoln, led by the determined Captain Farragut, to hunt down this elusive maritime monster.  At the start of the novel, readers are introduced to the bizarre occurrences surrounding a giant underwater entity that has been sighted across oceans, captivating the attention of the scientific community and the general public. The opening chapters depict the growing intrigue and debate about the creature's existence, setting the stage for Aronnax’s journey. After an offer from the American government, he decides to join the expedition to hunt the creature, along with his loyal servant Conseil and the skilled harpooner Ned Land. As preparations are made to embark on this perilous venture, Verne establishes a rich backdrop of curiosity, scientific exploration, and impending adventure. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Science-Fiction & Fantasy",
+        "FR Littérature",
+        "FR Science fiction",
+        "Science Fiction",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/html": "https://www.gutenberg.org/ebooks/5097.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/5097.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/5097.kf8.images",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/5097.txt.utf-8",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/5097.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/5097/pg5097.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/5097/5097-0.zip",
+      },
+      "download_count": 1017,
+    },
+    {
+      "id": 58530,
+      "title": "English Wayfaring Life in the Middle Ages (XIVth Century)",
+      "authors": [
+        {
+          "name": "Jusserand, J. J. (Jean Jules)",
+          "birth_year": 1855,
+          "death_year": 1932,
+        },
+      ],
+      "summaries": [
+        "\"English Wayfaring Life in the Middle Ages (XIVth Century)\" by J. J. Jusserand is a historical account written in the late 19th century. The text examines the lifestyles and journeys of various travelers during the fourteenth century in England, focusing particularly on the nomadic aspects of life that have often been overlooked in historical narratives. It aims to reconstruct daily life for ordinary people, detailing the interactions and exchanges that took place among those who roamed the roads of medieval England.  The opening of the work sets the stage for this exploration by contrasting the preserved histories of ancient civilizations, like Egypt and Rome, with our lost understanding of medieval life, particularly that of the common man. Jusserand emphasizes the importance of historical documents over literary embellishments, proposing that through careful study of records, we can recover the narratives of daily existences. He outlines the intent behind the book: to systematically investigate the roles of different types of wayfarers—pedlars, pilgrims, friars, and the like—and the cultural exchange they fostered during an era of significant societal change in England. (This is an automatically generated summary.)",
+      ],
+      "translators": [
+        {"name": "Smith, Lucy Toulmin", "birth_year": 1838, "death_year": 1911},
+      ],
+      "subjects": [
+        "Christian pilgrims and pilgrimages -- England",
+        "England -- Social life and customs -- 1066-1485",
+        "Travel, Medieval",
+      ],
+      "bookshelves": [
+        "Category: History - British",
+        "Category: History - Medieval/Middle Ages",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/58530.txt.utf-8",
+        "text/html": "https://www.gutenberg.org/ebooks/58530.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/58530.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/58530.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/58530.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/58530/pg58530.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/58530/58530-0.zip",
+      },
+      "download_count": 984,
+    },
+    {
+      "id": 44287,
+      "title": "The Insect",
+      "authors": [
+        {"name": "Michelet, Jules", "birth_year": 1798, "death_year": 1874},
+      ],
+      "summaries": [
+        "\"The Insect\" by Jules Michelet is a scientific publication written in the mid-19th century. The work delves into the fascinating world of insects, exploring their roles within the broader context of nature, drawing poetic connections between the insect world and human existence. It celebrates the intricate lives and interactions of these small creatures, while also reflecting upon the larger tapestry of life.  At the start of the book, the author introduces the vastness and complexity of the insect world, emphasizing its profound impact on the ecosystem and the interconnectedness of all forms of life. Through vivid imagery and philosophical musings, Michelet expresses his fascination and reverence for these often-overlooked beings, suggesting that they hold both beauty and mystery. He illustrates his passionate observations, recounting personal experiences that reveal a deep empathy for the insect realm, setting the stage for an in-depth exploration of their lives in the chapters to follow. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Insects"],
+      "bookshelves": [
+        "Category: Nature/Gardening/Animals",
+        "Category: Science - Biology",
+      ],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/44287.txt.utf-8",
+        "text/html": "https://www.gutenberg.org/ebooks/44287.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/44287.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/44287.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/44287.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/44287/pg44287.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/44287/pg44287-h.zip",
+      },
+      "download_count": 980,
+    },
+    {
+      "id": 54873,
+      "title": "Vingt mille lieues sous les mers",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"Vingt mille lieues sous les mers\" by Jules Verne is a novel written in the late 19th century. The book explores the mysterious and adventurous life beneath the oceans, focusing on the enigmatic character known as Captain Nemo and his submarine, the Nautilus, as well as the scientific explorations of Professor Pierre Aronnax, who becomes embroiled in the captain’s world. The narrative delves into the themes of marine life, exploration, and the philosophical implications of humanity's relationship with nature.  At the start of the book, various reports emerge in 1866 about a gigantic sea creature spotted by numerous ships across the oceans, sparking an intense debate in the public and scientific communities. Amidst growing panic and curiosity, the narrative introduces Professor Aronnax, who, after an invitation from the American government, joins an expedition on the USS Abraham Lincoln to hunt this mysterious monster. The story establishes the tone of intrigue and suspense surrounding the creature’s existence, while showcasing early elements of scientific inquiry and exploration that will lead the characters into the depths of the ocean. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Adventure stories",
+        "Science fiction",
+        "Sea stories",
+        "Submarines (Ships) -- Fiction",
+        "Underwater exploration -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: Classics of Literature",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "FR Jeunesse",
+        "FR Littérature",
+        "FR Science fiction",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/54873.txt.utf-8",
+        "text/html": "https://www.gutenberg.org/ebooks/54873.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/54873.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/54873.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/54873.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/54873/pg54873.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/54873/pg54873-h.zip",
+      },
+      "download_count": 920,
+    },
+    {
+      "id": 38674,
+      "title": "De la terre à la lune, trajet direct en 97 heures 20 minutes",
+      "authors": [
+        {"name": "Verne, Jules", "birth_year": 1828, "death_year": 1905},
+      ],
+      "summaries": [
+        "\"De la terre à la lune, trajet direct en 97 heures 20 minutes\" by Jules Verne is a novel written in the late 19th century. The story is centered around the ambitious members of the Baltimore Gun Club as they embark on a daring plan to launch a projectile to the moon following the American Civil War. The novel combines elements of science fiction and adventure, offering a speculative yet captivating exploration of space travel and human ingenuity.  The opening portion introduces readers to the Gun Club, formed in Baltimore amid the aftermath of the Civil War, as members express their frustration over the absence of war and the consequent lack of invention and excitement. The protagonist, Impey Barbicane, proposes a radical new project: launching a cannonball to the moon, igniting a passionate response among the members. This proposal leads to widespread excitement and curiosity, setting the stage for a tale that intertwines rigorous scientific calculations and the thrill of exploration as Barbicane and his fellow inventors prepare to make history in their quest to reach the lunar surface. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": [
+        "Manned space flight -- Fiction",
+        "Moon -- Fiction",
+        "Science fiction",
+        "Space flight to the moon -- Fiction",
+        "Space ships -- Fiction",
+      ],
+      "bookshelves": [
+        "Category: Adventure",
+        "Category: French Literature",
+        "Category: Novels",
+        "Category: Science-Fiction & Fantasy",
+        "FR Jeunesse",
+        "FR Littérature",
+        "FR Science fiction",
+        "Science Fiction",
+      ],
+      "languages": ["fr"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "application/octet-stream":
+            "https://www.gutenberg.org/files/38674/38674-8.zip",
+        "text/html": "https://www.gutenberg.org/ebooks/38674.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/38674.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/38674.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/38674.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/38674/pg38674.cover.medium.jpg",
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/38674.txt.utf-8",
+      },
+      "download_count": 894,
+    },
+    {
+      "id": 43341,
+      "title": "The Bird",
+      "authors": [
+        {"name": "Michelet, Jules", "birth_year": 1798, "death_year": 1874},
+      ],
+      "summaries": [
+        "\"The Bird\" by Jules Michelet is a natural history work written in the mid-19th century. The book serves as an eloquent and poetic exploration of birds and their relationships with humans and nature, emphasizing the beauty and significance of avian life. Michelet discusses various aspects of bird life, their habits, and their importance in ecosystems, manifesting a profound admiration for their existence.  At the start of the text, Michelet reflects on his motivation to study nature and the profound influence of personal experiences that shaped his perspective. He shares a tender narrative that outlines his beginnings, familial ties, and his connection with nature, specifically birds. The opening portion reveals his intimate conversations with loved ones and mesmerizing anecdotes about the vibrant birdlife around him, setting an emotional and philosophical tone for the exploration to come. Through these reflections, the reader gets a sense of Michelet's passionate advocacy for birds and his plea for a harmonious coexistence with all living beings. (This is an automatically generated summary.)",
+      ],
+      "translators": [],
+      "subjects": ["Birds"],
+      "bookshelves": ["Category: Nature/Gardening/Animals"],
+      "languages": ["en"],
+      "copyright": false,
+      "media_type": "Text",
+      "formats": {
+        "text/plain; charset=us-ascii":
+            "https://www.gutenberg.org/ebooks/43341.txt.utf-8",
+        "text/html": "https://www.gutenberg.org/ebooks/43341.html.images",
+        "application/epub+zip":
+            "https://www.gutenberg.org/ebooks/43341.epub3.images",
+        "application/x-mobipocket-ebook":
+            "https://www.gutenberg.org/ebooks/43341.kf8.images",
+        "application/rdf+xml": "https://www.gutenberg.org/ebooks/43341.rdf",
+        "image/jpeg":
+            "https://www.gutenberg.org/cache/epub/43341/pg43341.cover.medium.jpg",
+        "application/octet-stream":
+            "https://www.gutenberg.org/cache/epub/43341/pg43341-h.zip",
+      },
+      "download_count": 879,
+    },
+  ],
+};
