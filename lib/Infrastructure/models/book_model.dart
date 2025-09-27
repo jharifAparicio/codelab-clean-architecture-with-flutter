@@ -1,41 +1,46 @@
 import 'dart:convert';
 
-ApiResponse apiResponseFromJson(String str) =>
-    ApiResponse.fromJson(json.decode(str));
+import '../../Domain/entities/book.dart';
 
-String apiResponseToJson(ApiResponse data) => json.encode(data.toJson());
+ApiResponseModel apiResponseFromJson(String str) =>
+    ApiResponseModel.fromJson(json.decode(str));
 
-class ApiResponse {
+String apiResponseToJson(ApiResponseModel data) => json.encode(data.toJson());
+
+class ApiResponseModel {
   int count;
   String? next;
   String? previous;
-  List<Book> results;
+  List<BookModel> results;
 
-  ApiResponse({
+  ApiResponseModel({
     required this.count,
     required this.next,
     required this.previous,
     required this.results,
   });
 
-  ApiResponse copyWith({
+  ApiResponseModel copyWith({
     int? count,
     String? next,
     String? previous,
-    List<Book>? results,
-  }) => ApiResponse(
+    List<BookModel>? results,
+  }) => ApiResponseModel(
     count: count ?? this.count,
     next: next ?? this.next,
     previous: previous ?? this.previous,
     results: results ?? this.results,
   );
 
-  factory ApiResponse.fromJson(Map<String, dynamic> json) => ApiResponse(
-    count: json["count"],
-    next: json["next"],
-    previous: json["previous"],
-    results: List<Book>.from(json["results"].map((x) => Book.fromJson(x))),
-  );
+  factory ApiResponseModel.fromJson(Map<String, dynamic> json) =>
+      ApiResponseModel(
+        count: json["count"],
+        next: json["next"],
+        previous: json["previous"],
+        results: List<BookModel>.from(
+          json["results"].map((x) => BookModel.fromJson(x)),
+        ),
+      );
 
   Map<String, dynamic> toJson() => {
     "count": count,
@@ -45,21 +50,20 @@ class ApiResponse {
   };
 }
 
-class Book {
+class BookModel {
   int id;
   String title;
-  List<Author> authors;
+  List<AuthorModel> authors;
   List<String> summaries;
-  List<Author> translators;
+  List<AuthorModel> translators;
   List<String> subjects;
   List<String> bookshelves;
-  List<Language> languages;
   bool copyright;
   String mediaType;
-  Formats formats;
+  FormatsModel formats;
   int downloadCount;
 
-  Book({
+  BookModel({
     required this.id,
     required this.title,
     required this.authors,
@@ -67,27 +71,25 @@ class Book {
     required this.translators,
     required this.subjects,
     required this.bookshelves,
-    required this.languages,
     required this.copyright,
     required this.mediaType,
     required this.formats,
     required this.downloadCount,
   });
 
-  Book copyWith({
+  BookModel copyWith({
     int? id,
     String? title,
-    List<Author>? authors,
+    List<AuthorModel>? authors,
     List<String>? summaries,
-    List<Author>? translators,
+    List<AuthorModel>? translators,
     List<String>? subjects,
     List<String>? bookshelves,
-    List<Language>? languages,
     bool? copyright,
     String? mediaType,
-    Formats? formats,
+    FormatsModel? formats,
     int? downloadCount,
-  }) => Book(
+  }) => BookModel(
     id: id ?? this.id,
     title: title ?? this.title,
     authors: authors ?? this.authors,
@@ -95,29 +97,30 @@ class Book {
     translators: translators ?? this.translators,
     subjects: subjects ?? this.subjects,
     bookshelves: bookshelves ?? this.bookshelves,
-    languages: languages ?? this.languages,
     copyright: copyright ?? this.copyright,
     mediaType: mediaType ?? this.mediaType,
     formats: formats ?? this.formats,
     downloadCount: downloadCount ?? this.downloadCount,
   );
 
-  factory Book.fromJson(Map<String, dynamic> json) => Book(
+  factory BookModel.fromJson(Map<String, dynamic> json) => BookModel(
     id: json["id"],
     title: json["title"],
-    authors: List<Author>.from(json["authors"].map((x) => Author.fromJson(x))),
+    authors: List<AuthorModel>.from(
+      json["authors"].map((x) => AuthorModel.fromJson(x)),
+    ),
     summaries: List<String>.from(json["summaries"].map((x) => x)),
-    translators: List<Author>.from(
-      json["translators"].map((x) => Author.fromJson(x)),
+    translators: List<AuthorModel>.from(
+      json["translators"].map((x) => AuthorModel.fromJson(x)),
     ),
     subjects: List<String>.from(json["subjects"].map((x) => x)),
     bookshelves: List<String>.from(json["bookshelves"].map((x) => x)),
-    languages: List<Language>.from(
-      json["languages"].map((x) => languageValues.map[x]!),
-    ),
+    // languages: List<Language>.from(
+    //   json["languages"].map((x) => languageValues.map[x]!),
+    // ),
     copyright: json["copyright"],
     mediaType: json["media_type"],
-    formats: Formats.fromJson(json["formats"]),
+    formats: FormatsModel.fromJson(json["formats"]),
     downloadCount: json["download_count"],
   );
 
@@ -129,34 +132,45 @@ class Book {
     "translators": List<dynamic>.from(translators.map((x) => x.toJson())),
     "subjects": List<dynamic>.from(subjects.map((x) => x)),
     "bookshelves": List<dynamic>.from(bookshelves.map((x) => x)),
-    "languages": List<dynamic>.from(
-      languages.map((x) => languageValues.reverse[x]),
-    ),
     "copyright": copyright,
     "media_type": mediaType,
     "formats": formats.toJson(),
     "download_count": downloadCount,
   };
+  Book toEntity() => Book(
+    id: id,
+    title: title,
+    authors: authors.map((a) => a.toEntity()).toList(),
+    summaries: summaries,
+    translators: translators.map((a) => a.toEntity()).toList(),
+    subjects: subjects,
+    bookshelves: bookshelves,
+    copyright: copyright,
+    mediaType: mediaType,
+    formats: formats.toEntity(),
+    downloadCount: downloadCount,
+  );
 }
 
-class Author {
+class AuthorModel {
   String? name;
   int? birthYear;
   int? deathYear;
 
-  Author({
+  AuthorModel({
     required this.name,
     required this.birthYear,
     required this.deathYear,
   });
 
-  Author copyWith({String? name, int? birthYear, int? deathYear}) => Author(
-    name: name ?? this.name,
-    birthYear: birthYear ?? this.birthYear,
-    deathYear: deathYear ?? this.deathYear,
-  );
+  AuthorModel copyWith({String? name, int? birthYear, int? deathYear}) =>
+      AuthorModel(
+        name: name ?? this.name,
+        birthYear: birthYear ?? this.birthYear,
+        deathYear: deathYear ?? this.deathYear,
+      );
 
-  factory Author.fromJson(Map<String, dynamic> json) => Author(
+  factory AuthorModel.fromJson(Map<String, dynamic> json) => AuthorModel(
     name: json["name"],
     birthYear: json["birth_year"],
     deathYear: json["death_year"],
@@ -167,9 +181,11 @@ class Author {
     "birth_year": birthYear,
     "death_year": deathYear,
   };
+  Author toEntity() =>
+      Author(name: name, birthYear: birthYear, deathYear: deathYear);
 }
 
-class Formats {
+class FormatsModel {
   String? textHtml;
   String? applicationEpubZip;
   String? applicationXMobipocketEbook;
@@ -180,7 +196,7 @@ class Formats {
   String? textHtmlCharsetUtf8;
   String? textPlainCharsetUtf8;
 
-  Formats({
+  FormatsModel({
     required this.textHtml,
     required this.applicationEpubZip,
     required this.applicationXMobipocketEbook,
@@ -192,7 +208,7 @@ class Formats {
     this.textPlainCharsetUtf8,
   });
 
-  Formats copyWith({
+  FormatsModel copyWith({
     String? textHtml,
     String? applicationEpubZip,
     String? applicationXMobipocketEbook,
@@ -202,7 +218,7 @@ class Formats {
     String? applicationOctetStream,
     String? textHtmlCharsetUtf8,
     String? textPlainCharsetUtf8,
-  }) => Formats(
+  }) => FormatsModel(
     textHtml: textHtml ?? this.textHtml,
     applicationEpubZip: applicationEpubZip ?? this.applicationEpubZip,
     applicationXMobipocketEbook:
@@ -217,7 +233,7 @@ class Formats {
     textPlainCharsetUtf8: textPlainCharsetUtf8 ?? this.textPlainCharsetUtf8,
   );
 
-  factory Formats.fromJson(Map<String, dynamic> json) => Formats(
+  factory FormatsModel.fromJson(Map<String, dynamic> json) => FormatsModel(
     textHtml: json["text/html"],
     applicationEpubZip: json["application/epub+zip"],
     applicationXMobipocketEbook: json["application/x-mobipocket-ebook"],
@@ -240,24 +256,16 @@ class Formats {
     "text/html; charset=utf-8": textHtmlCharsetUtf8,
     "text/plain; charset=utf-8": textPlainCharsetUtf8,
   };
-}
 
-enum Language { en, es, fr }
-
-final languageValues = EnumValues({
-  "en": Language.en,
-  "es": Language.es,
-  "fr": Language.fr,
-});
-
-class EnumValues<T> {
-  Map<String, T> map;
-  late Map<T, String> reverseMap;
-
-  EnumValues(this.map);
-
-  Map<T, String> get reverse {
-    reverseMap = map.map((k, v) => MapEntry(v, k));
-    return reverseMap;
-  }
+  Formats toEntity() => Formats(
+    textHtml: textHtml,
+    applicationEpubZip: applicationEpubZip,
+    applicationXMobipocketEbook: applicationXMobipocketEbook,
+    textPlainCharsetUsAscii: textPlainCharsetUsAscii,
+    applicationRdfXml: applicationRdfXml,
+    imageJpeg: imageJpeg,
+    applicationOctetStream: applicationOctetStream,
+    textHtmlCharsetUtf8: textHtmlCharsetUtf8,
+    textPlainCharsetUtf8: textPlainCharsetUtf8,
+  );
 }

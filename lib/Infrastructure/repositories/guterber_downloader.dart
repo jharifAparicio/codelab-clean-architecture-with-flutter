@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:free_books/models/download_result.dart';
+import 'package:free_books/Infrastructure/models/download_result.dart';
 import 'package:path_provider/path_provider.dart';
 
 class GutenbergDownloader {
